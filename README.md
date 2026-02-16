@@ -1,8 +1,8 @@
 sudo apt install libssl-dev
 
-# SpartanChain
+# InterruptX
 
-SpartanChain is a lightweight, secure cryptocurrency and blockchain implementation written in modern C++. It includes a cryptographic wallet system, transaction management, and a simple CLI for interacting with the chain.
+InterruptX is a lightweight, secure cryptocurrency and blockchain implementation written in modern C++. It includes a cryptographic wallet system, transaction management, and a simple CLI for interacting with the chain.
 
 ---
 
