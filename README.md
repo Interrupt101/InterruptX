@@ -48,3 +48,11 @@ CLI Commands:
 - chain - View the current blockchain
 - balance - Show wallet balance
 - exit - Exit the CLI
+
+
+## Windows
+ ```bash
+cmake -B build -S . -DCMAKE_TOOLCHAIN_FILE=C:/Tools/vcpkg/scripts/buildsystems/vcpkg.cmake -DVCPKG_TARGET_TRIPLET=x64-windows
+cmake --build build 
+```
+
